@@ -4,6 +4,8 @@ there're too many copycat sites nowadays, so let's block them.
 Filter list that blocks Copycat sites
 this includes phishing sites, clones of websites, etc
 
+Feel free to fork and add on to this if you'd like
+
 This Filterlist requires [uBlock Origin](https://github.com/gorhill/uBlock)
 
 <p align="center">
