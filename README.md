@@ -6,7 +6,7 @@ this includes phishing sites, clones of websites, etc
 
 Feel free to fork and add on to this if you'd like
 
-This Filterlist requires [uBlock Origin](https://github.com/gorhill/uBlock)
+This Filterlist requires [uBlock Origin](https://github.com/gorhill/uBlock) click the Subscribe button below to apply
 
 <p align="center">
 <a href="https://addons.mozilla.org/addon/ublock-origin/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get uBlock Origin for Firefox"></a>
