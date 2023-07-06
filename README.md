@@ -2,7 +2,7 @@
 there're too many copycat sites nowadays, so let's block them.
 
 Filter list that blocks Copycat sites
-this includes phishing sites, clones of websites etc
+this includes phishing sites, clones of websites, etc
 
 feel free to fork and add on to it if you'd like
 
