@@ -1,7 +1,6 @@
 # Copycat-Filterlist
 there're too many copycat sites nowadays, so let's block them.
 
-
 Filter list that blocks Copycat sites
 this includes phishing sites, clones of websites etc
 
