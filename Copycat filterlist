@@ -1,0 +1,52 @@
+# Filter list used to block copycat sites of Official sites
+
+
+
+#// Anime Sites
+
+# GogoAnime.hu clones
+||gogoanime2.org^$important,all
+||gogoanimes.org^$important,all
+||gogoanime.network^$important,all
+||gogoanime.tw^$important,all
+||gogoanimes.to^$important,all
+||gogoanime.cloud^$important,all
+||gogoanime.mom^$important,all
+||gogoanimeapp.com^$important,all
+
+# 9Anime.me clones
+||9anime.se^$important,all
+||9anime.pe^$important,all
+||9animeapp.pro^$important,all
+||9anime.vip^$important,all
+||9animes.ru^$important,all
+
+
+
+#// Game related
+
+# Elamigos.site clones
+||elamigosgames.com^$important,all
+||elamigosedition.com^$important,all
+||elamigos-games.com^$important,all
+
+# OVAGames.com clones
+||ovagames.net^$important,all
+||ovagames4u.blogspot.com^$important,all
+||ovagames-com.votted.net^$important,all
+||ovagamese.downloadgames.info^$important,all
+
+# DODI-Repacks.site clones
+||dodi-repacks.download^$important,all
+||dodirepacks.org^$important,all
+||dodi-repacks-site.org^$important,all
+
+# FitGirl-Repacks.site clones
+||fitgirl-repack.com^$important,all
+||fitgirlrepacks.co^$important,all
+||fitgirl-repacks.vip^$important,all
+||fitgirl-repacks.website^$important,all
+||fitgirlrepacks.org^$important,all
+||fitgirlrepack.games^$important,all
+||repack-firgirl.net^$important,all
+
