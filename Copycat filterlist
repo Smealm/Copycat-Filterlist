@@ -28,8 +28,8 @@
 #// Game related
 
 # Fake Kiddion's Menu Sites
-kiddionsmodmenu.com^$important,all
-kiddionsmodestmenu.com^$important,all
+||kiddionsmodmenu.com^$important,all
+||kiddionsmodestmenu.com^$important,all
 
 # ElAmigos.site clones
 ||elamigosgames.com^$important,all
